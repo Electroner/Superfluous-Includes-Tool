@@ -6,6 +6,6 @@ Single-File Solution: No installation required - just download and run
 Cleanup Utility: Automatically remove redundant imports with a single click working in 99,54% cases.
 
 # Basic usage
-python Detector.py /path/to/your/project
+python3 Detector.py /path/to/your/project
 
 ![APP](https://github.com/Electroner/Superfluous-Includes-Tool/blob/main/image.png)
