@@ -6,7 +6,7 @@ Single-File Solution: No installation required - just download and run
 Cleanup Utility: Automatically remove redundant imports with a single click working in 99,54% cases.
 
 # Basic usage
-python dependency_analyzer.py /path/to/your/project
+python Detector.py /path/to/your/project
 
 
 
