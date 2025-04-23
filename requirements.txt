@@ -1,0 +1,2 @@
+dash==3.0.3
+dash_cytoscape==1.0.2
