@@ -8,5 +8,4 @@ Cleanup Utility: Automatically remove redundant imports with a single click work
 # Basic usage
 python Detector.py /path/to/your/project
 
-
-
+![APP](https://github.com/Electroner/Superfluous-Includes-Tool/blob/main/image.png)
